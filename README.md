@@ -1,7 +1,5 @@
 # PassID Documentation and Tools
 
-*EOSIO PassID is an ambitious effort to on-board massive Public Key Infrastructure provided by ICAO and Passports to EOSIO.*
-
 ### Overview
 * [EOSIO PassID](https://github.com/ZeroPass/PassID-documntation-and-tools/blob/master/EOSIO%20PassID.md) - main overview of the whole solution.
 * [UX & Ecosystem](https://github.com/ZeroPass/PassID-documntation-and-tools/blob/master/UX%20%26%20Ecosystem.md) - PassID from the user view.
@@ -13,15 +11,13 @@
 
 ### PassID Mobile App
 
-* [Android+iOS app (Flutter)](https://github.com/ZeroPass/eosio-passid-mobile-app) 
+* Android+iOS app (Flutter) (closed until release) 
 
 ### PoC Code Repositories
-* [iOS](https://github.com/ZeroPass/PassID-iOS-App)
-* [Android app](https://github.com/ZeroPass/PassID-Android-App)
-* [Server](https://github.com/ZeroPass/PassID-Server)
+* iOS (closed until public release)
+* Android app (closed until public release)
+* Server (closed until public release)
 
-### Project management
-* [github.com/orgs/ZeroPass/projects/1](https://github.com/orgs/ZeroPass/projects/1)
 
 ### Tools
-* [pkdext](tools/pkdext) - python script for extracting CSCA/DSC certificates from masterlist and LDAP files
+* [pkdext](tools/pkdext) - python script for extracting CSCA/DSC certificates from masterlist and LDAP files 
